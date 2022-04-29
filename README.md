@@ -1,4 +1,4 @@
-![Technical Writing with Kamal Kumar (4)](https://user-images.githubusercontent.com/73750698/143250622-985cba1e-5de3-40da-ad97-4350db0efbca.png)
+![Kamal Kumar - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
 
    # *Hi there, welcome to my GitHub account!* 
    
