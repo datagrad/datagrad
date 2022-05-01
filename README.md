@@ -2,6 +2,12 @@
 
    # *Hi there, welcome to my GitHub account!* 
    
+   
+   # datagrad.github.io
+
+         I have been a bit Lazy to update this lately, but you can visit this great site https://datagrad.github.io/
+
+   
    ### My name is Kamal Kumar, a Technical Writer by Profession, developing my programming skills in order to exploit data.
 
 <h3 align="center">📚 Been exposed to these technologies: 📚</h3>
