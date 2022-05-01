@@ -1,11 +1,9 @@
 ![Kamal Kumar - Business Intelligence   Data Analyst](https://user-images.githubusercontent.com/73750698/165881079-7dbd5acb-5741-4a93-bf17-803ceeb56af8.png)
 
    # *Hi there, welcome to my GitHub account!* 
-   
-   
-   # datagrad.github.io
 
-         I have been a bit Lazy to update this lately, but you can visit this great site https://datagrad.github.io/
+
+I have been a bit Lazy to update this lately, but you can visit this [Great Site](https://datagrad.github.io/)
 
    
    ### My name is Kamal Kumar, a Technical Writer by Profession, developing my programming skills in order to exploit data.
