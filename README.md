@@ -6,7 +6,7 @@
 I have been a bit Lazy to update this lately, but you can visit this [Great Site](https://datagrad.github.io/)
 
    
-   ### My name is Kamal Kumar, a Technical Writer by Profession, developing my programming skills in order to exploit data.
+   ### My name is Kamal Kumar, a Senior Data Analyst @ Oracle Cerner.
 
 <h3 align="center">📚 Been exposed to these technologies: 📚</h3>
 <p align="center">
